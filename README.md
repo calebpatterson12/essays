@@ -16,10 +16,9 @@ Although ’tis fit that <span style=color:orange;">Cassio</span> have his place
 For sure he fills it up with great ability—</br>
 Yet, if you please to hold him off awhile,</br>
 You shall by that perceive him and his means.</br>
-<p style="color:purple; font-size:15px">Tricking Othello into thinking Desdemona has betrayed him</p>
 Note if your lady strain his entertainment</br>
-With any strong or <span style=color:pink;">vehement</span>  importunity.</br>
-<p style="color:pink; font-size:15px">Showing strong feeling, passionate</p>
+With any strong or <span style=color:pink;">vehement</span> importunity.</br>
+<p style="color:pink; font-size:15px">Showing strong feeling, passionate. Would be suspicious if Desdemona had and strong opinions on matters with Cassio</p>
 Much will be seen in that. In the meantime,</br>
 Let me be thought too busy in my fears—</br>
 As worthy cause I have to fear I am—</br>
@@ -44,7 +43,8 @@ Though that her <span style=color:green;">jesses</span> were my dear heartstring
     And have not those soft parts of conversation</br>
 That chamberers have, or for I am declined</br>
 .ve-media wc:BlarneyCastle5.jpg right height=250px width=120% fit=cover
-Into the vale of years—yet that’s not much—</br>
+Into the <span style=color:teal;">vale of years</span>—yet that’s not much—</br>
+<p style="color:teal; font-size:15px">Suggest age could also be a possibility for Desdemona's betrayal</p>
 She’s gone, I am abused, and my relief</br>
 Must be to loathe her. O curse of marriage,</br>
 That we can call these delicate creatures ours</br>
